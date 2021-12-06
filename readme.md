@@ -1,4 +1,4 @@
-Needs an update
+No longer maintained here, have  a look at this repo instead ->  https://github.com/cadia-lvl/samromur-tools/tree/master/ScriptMaker
 
 
 Text extractor that extracts parlimentary speeches from xml files in the Icelandix Gigaword Corpus (https://clarin.is/). It also gets the speakers name and title of each speech. It then finds the authors corresponding parliamentary party. 
